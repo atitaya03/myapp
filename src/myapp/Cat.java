@@ -1,11 +1,11 @@
 package myapp;
 
 public class Cat {
-    private String name;
-    private int age;
+    private String name_cat;
+    private int age_cat;
     Cat(String name,int age){
-        this.name = name;
-        this.age = age;
+        this.name_cat = name;
+        this.age_cat = age;
     }
 
 }
